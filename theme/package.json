@@ -5,7 +5,7 @@
     "type": "git",
     "url": "https://github.com/RobinCsl/gatsby-theme-talks.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "private": false,
