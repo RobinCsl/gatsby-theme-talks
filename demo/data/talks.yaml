@@ -1,0 +1,49 @@
+- name: Finite Fields and ECDSA
+  location: Prague, Czech Republic
+  date: 2019-03-25T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/fr-FR/Life-Learning-Programming-Prague/events/259892147/
+  slidesUrl: https://sylv.icu/25032019-finite-fields-ECDSA-prague
+
+- name: Group Theory and Elliptic Curves
+  location: Prague, Czech Republic
+  date: 2019-03-04T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/fr-FR/Life-Learning-Programming-Prague/events/259291581/
+  slidesUrl: https://sylv.icu/20190304-group-theory-elliptic-curves-prague
+
+- name: The Maths Behind Bitcoin
+  location: Brno, Czech Republic
+  date: 2019-02-19T16:30:00.000Z
+  eventName: Blockchain Meetup
+  eventUrl: https://www.meetup.com/Blockchain-Brno/events/258730912/
+  slidesUrl: https://sylv.icu/20190219-maths-behind-bitcoin-brno
+  youtubeUrl: https://www.youtube.com/watch?v=w_sCH54Ehjs
+
+- name: Geometry 101
+  location: Prague, Czech Republic
+  date: 2019-02-18T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/Life-Learning-Programming-Prague/events/258872130/
+  slidesUrl: https://sylv.icu/20190218-gemetry-101-prague
+
+- name: The Maths behind Bitcoin
+  location: Prague, Czech Republic
+  date: 2018-09-24T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/Life-Learning-Programming-Prague/events/254146193/
+  slidesUrl:
+
+- name: The Maths behind Bitcoin
+  location: Prague, Czech Republic
+  date: 2018-07-30T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/Life-Learning-Programming-Prague/events/fcwrzpyxkbnc/
+  slidesUrl:
+
+- name: TBD
+  location: Prague, Czech Republic
+  date: 2019-09-15T16:00:00.000Z
+  eventName: Learning By Doing Meetup
+  eventUrl: https://www.meetup.com/Life-Learning-Programming-Prague
+  slidesUrl:

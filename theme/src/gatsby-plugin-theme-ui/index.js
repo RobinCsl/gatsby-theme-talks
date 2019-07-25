@@ -5,9 +5,11 @@
  */
 export default {
   colors: {
-    text: "#232129",
-    background: "#fff",
-    primary: "#639",
+    text: "#130303",
+    background: "#ffcdbc",
+    muted: "#f8b184",
+    primary: "#2d080a",
+    secondary: "#6b0f1a",
   },
   fonts: {
     default:
@@ -57,6 +59,15 @@ export default {
       color: "text",
       fontSize: 5,
       lineHeight: "heading",
+    },
+    a: {
+      color: "primary",
+      ":visited": {
+        color: "secondary",
+      },
+    },
+    ul: {
+      listStyleType: "none",
     },
   },
 }
